@@ -1,1 +1,1 @@
-# majour_project
+# major_project
